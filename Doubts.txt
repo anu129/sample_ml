@@ -1,0 +1,2 @@
+whats the diffrence between power shell, gi bash , shell?
+when all these works -1 file changed, 0 insertions(+), 0 deletions(-)?
