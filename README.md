@@ -9,3 +9,6 @@ steps to follow
 7. git push ( This is the core command that uploads your local commits to a remote server.
 8. git push -u origin main) ( do this one time in a project to setup connect with upstream)
 9. git push ( for rest of the commit)
+10. Create .gitignore file (select template)
+11. setup.py (there are lot of packages in python , like seabron ( now how this pacage will install using pip install, so this setup.py will create package of my ML application))
+12. requirements.txt with -e (-e (Editable Mode): This tells pip to link the package directly to your source folder instead of copying the files into Python's hidden site-packages directory)

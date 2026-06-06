@@ -1,2 +1,4 @@
 whats the diffrence between power shell, gi bash , shell?
 when all these works -1 file changed, 0 insertions(+), 0 deletions(-)?
+why setup.py required, dow e use it in mordern way, whats the alternative, how its related to init.py file in src folder
+
