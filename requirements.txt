@@ -1,6 +1,6 @@
 pandas
 scikit-learn
 matplotlib
-nympy
+numpy
 seaborn
 -e .
