@@ -1,3 +1,0 @@
-1. Connect to GIT REPO
-create virtual evvironment
-Create readme.md

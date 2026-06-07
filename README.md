@@ -12,3 +12,5 @@ steps to follow
 10. Create .gitignore file (select template)
 11. setup.py (there are lot of packages in python , like seabron ( now how this pacage will install using pip install, so this setup.py will create package of my ML application))
 12. requirements.txt with -e (-e (Editable Mode): This tells pip to link the package directly to your source folder instead of copying the files into Python's hidden site-packages directory)
+13. create components folder
+14. create data ingestion , data transformation files, model_trainer files
