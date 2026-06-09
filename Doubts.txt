@@ -2,3 +2,20 @@ whats the diffrence between power shell, gi bash , shell?
 when all these works -1 file changed, 0 insertions(+), 0 deletions(-)?
 why setup.py required, dow e use it in mordern way, whats the alternative, how its related to init.py file in src folder
 
+
+
+
+Config Management: What is the difference between config.py vs .dotenv (.env)?
+Environment Troubleshooting: How to resolve the VS Code Pylance error: Import "pandas" could not be resolved from source?
+Path & Import Errors: How to fix the ModuleNotFoundError: No module named 'src' error when running a script inside a subfolder?
+Alternative Executions: What are other ways to fix this path issue besides using the PYTHONPATH terminal variable?
+Environment Differences: Why did the original code work perfectly on someone else's laptop but fail on yours?
+Package Settings: Should you add -e . directly into your requirements.txt file?
+Python Execution Gatekeepers: Why do we add if __name__ == "__main__": to the bottom of scripts, and how does it work inside the data ingestion file?
+Import Behavior: What actually happens when you import a file containing if __name__ == "__main__": into another script like main.py?
+Class Instantiation Logic: If a class isn't explicitly called to create an object, will it still execute or create artifacts upon being imported?
+Scikit-Learn Tools: What is the difference between a ColumnTransformer() and a Pipeline()?Code Structure: Why does the production-grade data transformation code look so long and repetitive?
+Preprocessing Math: What is the difference between using .fit_transform() vs .transform(), and how are they built internally?
+Data Leakage Rules: Why are we forbidden from calculating a new average on the test dataset during transform()?
+Python Decorators: Why do we create dedicated configuration classes, and what exactly does the @dataclass decorator do?
+Code Simplification: Could we just write those path configurations directly inside the processing functions instead of building separate config classes?
